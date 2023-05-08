@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-program-that-creates-a-gui
+<br>
+<p class="ui header product-top-header" title="Program that creates a GUI ">Give an example of a program that creates a GUI with at least one button and several textfields. Some of the textfields should be for input and others for output. Make the output textfields uneditable. When the button is clicked, the input fields should be read, some calculation performed and the result displayed in the output textfield(s).
